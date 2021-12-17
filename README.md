@@ -7,7 +7,9 @@
   <img align="left" alt="Ankur's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 
-hi, i'm [Ankur Ahir](https://portfolio-ankur-0429.vercel.app/), a passionate code currently working as a devOps developer for Lockheed Martin. 
+<br/>
+
+hi, i'm [Ankur Ahir](https://portfolio-ankur-0429.vercel.app/), a passionate coder currently working as a devOps developer for Lockheed Martin. 
 
 
 
@@ -26,9 +28,9 @@ hi, i'm [Ankur Ahir](https://portfolio-ankur-0429.vercel.app/), a passionate cod
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 <div style="display:flex; justify-content:space-between">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ankur-0429&show_icons=true&theme=gotham" alt="Ankur-0429" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankur-0429&theme=gotham&show_icons=true" alt="Ankur-0429" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankur-0429&theme=gotham&show_icons=true&langs_count=3" alt="Ankur-0429" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ankur-0429&show_icons=true&theme=gotham&line_height=27&count_private=true" alt="Ankur-0429" />
 </div>
 
 
