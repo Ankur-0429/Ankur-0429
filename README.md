@@ -17,7 +17,7 @@ hi, i'm [Ankur Ahir](https://portfolio-ankur-0429.vercel.app/), a passionate cod
 - 💬 Ask me about anything. I'm happy to help!
 
 
-**Languages and Tools**
+## &#x1F4D4; Languages And Tools
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
@@ -27,6 +27,8 @@ hi, i'm [Ankur Ahir](https://portfolio-ankur-0429.vercel.app/), a passionate cod
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
+
+## &#x1f4c8; GitHub Stats
 <div style="display:flex; justify-content:space-between">
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankur-0429&theme=gotham&show_icons=true&langs_count=3" alt="Ankur-0429" />
