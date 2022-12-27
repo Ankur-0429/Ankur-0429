@@ -4,7 +4,7 @@
   <img align="left" alt="Ankur's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://open.spotify.com/user/22qqnsrm567lhtgrz7ygmhbdi">
-  <img align="left" alt="Ankur's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+  <img align="left" alt="Ankur's Spotify" width="22px" src="https://www.freepnglogos.com/uploads/spotify-logo-png/file-spotify-logo-png-4.png" />
 </a>
 
 <br>
